@@ -15,8 +15,8 @@
 //  -d Delete line1 through line2 inclusive
 //
 // ERRORS
-//  Prints usage message and exits abnormally for invalid commands.  Prints an
-//  error message and exits abnormally for other issues.
+//  Prints usage message and exits abnormally for invalid commands.  Prints
+//  an error message and exits abnormally for other issues.
 //
 // LIMITATIONS
 //  Lines of text are limited to a maximum of 1023 chars.
